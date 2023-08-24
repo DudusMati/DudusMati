@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dudus\mati
+- 👋 Hi, I’m @DudusMati
 - 👀 I’m interested in automation, robotics, mechatronic, programming PLC, HMI, robots. Except that I am interested in programming AI, machine learning and safety systems. 
 - 🌱 I’m currently learning Python language.
 - 💞️ I’m looking to collaborate on Python junior project. I would like gain experience in python language programming, AI programming and machine learning programming. 
